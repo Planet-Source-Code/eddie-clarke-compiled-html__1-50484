@@ -1,0 +1,12 @@
+#define RT_HTML  23
+
+
+// HTML
+index.htm RT_HTML "index.htm"
+help1.htm RT_HTML "help1.htm"
+help2.htm RT_HTML "help2.htm"
+help3.htm RT_HTML "help3.htm"
+help4.htm RT_HTML "help4.htm"
+help5.htm RT_HTML "help5.htm"
+theme.css RT_HTML "theme.css"
+help.jpg RT_HTML "help.jpg"

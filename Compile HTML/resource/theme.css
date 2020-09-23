@@ -1,0 +1,36 @@
+.title
+{
+	font-family: "Trebuchet MS", verdana, serif;
+	font-size: x-large;
+	font-weight: bold;
+	color: #2d3851;
+	cursor: default;
+}
+p
+{
+	font-family: "Trebuchet MS", verdana, serif;
+	font-size: x-small;
+	color: #2d3851;
+	cursor: default;
+}
+a
+{
+	font-family: verdana, serif;
+	font-size: x-small;
+	color: #0000ff;
+	text-decoration: none;
+}
+a:hover
+{
+	font-family: verdana, serif;
+	font-size: x-small;
+	color: #ff0000;
+	text-decoration: underline;
+}
+a:visited
+{
+	font-family: verdana, serif;
+	font-size: x-small;
+	color: #800080;
+	text-decoration: none;
+}
